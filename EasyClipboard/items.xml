@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<items>
+	<item itemname="Google" itemvalue="https://google.com" />
+	<item itemname="password" itemvalue="p@$$w0rd" />
+	<item itemname="Mails">
+		<item itemname="GMAIL" itemvalue="https://gmail.com" />
+		<item itemname="OUTLOOK" itemvalue="https://outlook.com" />
+	</item>
+</items>
