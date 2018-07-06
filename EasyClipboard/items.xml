@@ -4,6 +4,7 @@
 	<item itemname="password" itemvalue="p@$$w0rd" />
 	<item itemname="Mails">
 		<item itemname="GMAIL" itemvalue="https://gmail.com" />
+		<item itemname="GMAIL EMAIL ID" itemvalue="rahul.choubey@gmail.com" />
 		<item itemname="OUTLOOK" itemvalue="https://outlook.com" />
 	</item>
 </items>
