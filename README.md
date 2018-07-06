@@ -8,7 +8,8 @@ EasyClipboard is an easy to use tool to store, organize and use when required, p
 
 ## Installation
 
-* Download the source code and copy the build contents to your favorite directory
+* Download the source code and build it using VS 2008 (or higher; for higher version solution file will have to be upgraded)
+* Copy the build contents to your favorite directory
 * Change items.xml to organize the data
 * Click EasyClipboard.exe to start the utility
 * You should be able to see EasyClipboard icon on task-bar
